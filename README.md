@@ -1,16 +1,11 @@
-# shop
+# Shop Aplication Flutter
+A Flutter project for Shop in my course.
 
-A new Flutter project.
+## Screenshots
+<a href="https://ibb.co/9hqpKWQ"><img src="https://i.ibb.co/PM5rXgq/login.png" alt="login" border="0"></a>
+<a href="https://ibb.co/4sxmBTj"><img src="https://i.ibb.co/PT8mBh5/inicio.png" alt="inicio" border="0"></a>
+<a href="https://ibb.co/cYGM1mq"><img src="https://i.ibb.co/xFpPD4Z/gerenciar.png" alt="gerenciar" border="0"></a>
+<a href="https://ibb.co/Vwh76Vj"><img src="https://i.ibb.co/1zpDcZv/carrinho.png" alt="carrinho" border="0"></a>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project presentation video:
+https://drive.google.com/file/d/1gupjVpNk3zae-DLPRZWuWLTMxyNQBYtu/view?usp=share_link
