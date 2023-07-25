@@ -8,4 +8,4 @@ A Flutter project for Shop in my course.
 <a href="https://ibb.co/Vwh76Vj"><img src="https://i.ibb.co/1zpDcZv/carrinho.png" alt="carrinho" border="0"></a>
 
 ## Project presentation video:
-https://drive.google.com/file/d/1gupjVpNk3zae-DLPRZWuWLTMxyNQBYtu/view?usp=share_link
+https://drive.google.com/file/d/1uShf952nk4o3w_hI-iwFSRQzdFwc4BUt/view?usp=sharing
